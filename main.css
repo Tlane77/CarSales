@@ -1,0 +1,19 @@
+
+
+
+body{
+    background-color: bisque;
+    border-radius: round;
+    text-shadow: red;
+    font-weight: bolder;
+}
+
+h1 {
+    font-family: cursive;
+    font-weight: bolder;
+}
+button{
+    background-color: red;
+    border-style: groove;
+    border-width: 3em;
+}
